@@ -9,7 +9,7 @@
 ## Reconocimiento
 - pass
   
-## Bulneravilidades descubiertas
+## Vulneravilidades descubiertas
 - pass
 
 ## Explotacion
