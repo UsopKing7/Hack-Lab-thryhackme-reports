@@ -4,7 +4,7 @@
 - **nombre de la maquina:**
 - **direccion ip:**
 - **fecha:** 29/07/2024
-- **autores:** UsopKing, Jasson,...........
+- **autores:** UsopKing, J4SS0N,...........
   
 ## Reconocimiento
 - pass
